@@ -353,11 +353,12 @@ Example of how to paragraph in a different way of four types
 > <font color='red'>Discuss both views</font> and <font color='green'>give your own opinion</font>.
 
 1. Read and understand the question
-   - highlight / underline key parts
-
+   
+- highlight / underline key parts
+   
 2. Plan your essay structure (4 paragraphs)
 
-   1. Introduction
+   1. Introduction: **topic** + **answer**
 
       | topic (1 sentence)       | answer (1 sentence)                               |
       | ------------------------ | ------------------------------------------------- |
@@ -367,7 +368,7 @@ Example of how to paragraph in a different way of four types
 
    3. Benefits of group alone (my view)
 
-   4. Conclusion
+   4. Conclusion: repeat answer
 
       | repeat answer (1 sentence)             |
       | -------------------------------------- |
@@ -376,3 +377,15 @@ Example of how to paragraph in a different way of four types
    **(4 minutes to complete step1-2)**
 
 3. Plan ideas for the two main paragraphs (6 minutes)
+
+   - brainstorm, note down any ideas you have
+   - develop ideas in detail
+   - keep asking yourself 'why'?
+   - think of examples to support your ideas
+   - finally, try to group related ideas (number them)
+
+   | <font color='red'>$^1$</font>Benefits of studying alone (3 minutes) | <font color='red'>$^1$</font>Benefits of group study (3 minutes) |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | <font color='red'>$^2$</font>concentrate better $\stackrel{why?}{\longrightarrow}$ no distractions, focus on the task, <font color='red'>$^3$</font>read books or articles, <font color='red'>$^5$</font>study at own pace, <font color='red'>$^3$</font>e.g. when revising for exam, <font color='red'>$^4$</font>memorize information | <font color='red'>$^2$</font>more ideas $\stackrel{why?}{\longrightarrow}$ share knowledge,gather more information e.g. <font color='red'>$^3$</font>research project, <font color='red'>$^2$</font>learn from each other, <font color='red'>$^4$</font>more motivating, responsibility to the group, sense of competition |
+
+   (<font color='red'>$^*$</font>means the number of those ideas in each paragraph to organize them when actually writing the paragraph)
