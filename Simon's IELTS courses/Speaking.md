@@ -415,15 +415,56 @@ Prepare vocabulary
 
 Use ideas from other topics
 
-| advertisement: use ideas form the 'watch' description |      |
-| ----------------------------------------------------- | ---- |
-| smartwatch e.g. Apple Watch                           |      |
-| synchronize with phone / computer                     |      |
-| contacts, photos, emails                              |      |
-| store music                                           |      |
-| receive notifications                                 |      |
-| search the web                                        |      |
-| it responds to voice commands                         |      |
-| track exercise goals                                  |      |
-| fashion accessory - it looks stunning                 |      |
+| advertisement: use ideas form the 'watch' description | Song: use ideas from the 'concert' description (lesson 6) |
+| ----------------------------------------------------- | --------------------------------------------------------- |
+| smartwatch e.g. Apple Watch                           | film soundtrack (e.g. James Bond)                         |
+| synchronize with phone / computer                     | theme music                                               |
+| contacts, photos, emails                              | orchestra                                                 |
+| store music                                           | instruments                                               |
+| receive notifications                                 | popular, well-known                                       |
+| search the web                                        | immediately recognizable                                  |
+| it responds to voice commands                         | creates expectation                                       |
+| track exercise goals                                  | adventure, mystery, suspense                              |
+| fashion accessory - it looks stunning                 | exciting, dramatic, powerful                              |
 
+| film: James Bond                    | website: Facebook                  |
+| ----------------------------------- | ---------------------------------- |
+| the film is / was released          | social networking website          |
+| the plot (story)                    | keep in contact with friends       |
+| the genre e.g. action, drama        | find people you've lost touch with |
+| the cast: actors, roles, characters | post messages                      |
+| scenes, locations, special effects  | write status updates               |
+| I thoroughly enjoyed it             | upload photos and videos           |
+| spectacular, entertaining           | post links to other websites       |
+| great performances                  | check your news feed               |
+| I was on the edge of my seat        | find people with shared interests  |
+| I was enthralled                    | connect with like-minded people    |
+
+| book: novel                | or non-fiction book / textbook      |
+| -------------------------- | ----------------------------------- |
+| storyline, plot, genre     | topic, filed, subject               |
+| the author, the characters | informative, fascinating, inspiring |
+| entertaining, enthralling  | I learnt about / I found out about  |
+| I couldn't put it down     | it opened my mind to ...            |
+
+> Search on the Internet for ideas about **your** favorites 
+
+### Example question
+
+> Describe a song or piece of music that you like. 
+>
+> You should say 
+>
+> - what type of music it is
+> - where you first heard it
+> - who performs it
+> - and explain why you like this song or piece of music
+
+> Describe a book that you enjoyed reading.
+>
+> You should say
+>
+> - what the book was about
+> - how you found out about it
+> - why you chose to read it
+> - and explain why you enjoyed reading this book. 
