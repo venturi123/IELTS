@@ -5,7 +5,7 @@
 1. Understand the task
 2. Break the task into parts
 3. Methods, techniques
-4. Lots of practice
+4. **Lots of practice**
 5. Feedback, measure progress
 
 ## Understand the task
@@ -355,7 +355,7 @@ Example of how to paragraph in a different way of four types
 1. Read and understand the question
    
 - highlight / underline key parts
-   
+  
 2. Plan your essay structure (4 paragraphs)
 
    1. Introduction: **topic** + **answer**
@@ -389,3 +389,72 @@ Example of how to paragraph in a different way of four types
    | <font color='red'>$^2$</font>concentrate better $\stackrel{why?}{\longrightarrow}$ no distractions, focus on the task, <font color='red'>$^3$</font>read books or articles, <font color='red'>$^5$</font>study at own pace, <font color='red'>$^3$</font>e.g. when revising for exam, <font color='red'>$^4$</font>memorize information | <font color='red'>$^2$</font>more ideas $\stackrel{why?}{\longrightarrow}$ share knowledge,gather more information e.g. <font color='red'>$^3$</font>research project, <font color='red'>$^2$</font>learn from each other, <font color='red'>$^4$</font>more motivating, responsibility to the group, sense of competition |
 
    (<font color='red'>$^*$</font>means the number of those ideas in each paragraph to organize them when actually writing the paragraph)
+
+#### Summary (10-minute essay plan, 3 steps)
+
+1. Read and understand the question
+
+2. Plan your essay structure
+
+3. Plan ideas for the 2 main paragraphs
+
+   **<FONT COLOR='RED'>Practice, Practice, Practice !!!</FONT>**
+
+## Topic
+
+### Opinion essay
+
+> Do YOU agree or disagree?
+
+**the key word is YOU. It's asking for your opinion, NOT the opinion of other people.**
+
+> ~~Some people think this, other people think that. They only give their opinion at the end.~~
+>
+> (**It's a bed way to doing it**)
+
+your opinion need to be clear from beginning introduction throughout the essay and repeat again in the conclusion, It's about you and your review NOT other people.
+
+It's definitely acceptable to use the word "I" or "my".
+
+You have to answer the question by saying what you think.
+
+#### Example
+
+> The <font color='red'>money spent by governments</font> on <font color='green'>space programmes</font> would be better spent on vital <font color='green'>public services</font> such as schools and hospitals.
+>
+> To what extent do <font color='red'>you agree or disagree</font>? 
+
+**Preparation**
+
+1. Read and understand the question
+   - highlight / underline key parts  (**YOU**)
+
+2. Plan your essay structure (4 paragraphs)
+
+   1. Introduction: (topic + answer)
+
+      | topic               | answer                                            |
+      | ------------------- | ------------------------------------------------- |
+      | government spending | agree - public services instead of space projects |
+
+   2.  explain why 'space' spending should be stopped
+   3.  explain why public service spending is better
+   4. Conclusion: spend on services that benefit us all
+
+3. Plan ideas for the two main paragraphs (6 minutes)
+
+   | <font color='red'>$^1$</font>Why space spending should be stopped | <font color='red'>$^1$</font>Why public service spending is better |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | waste of money when projects fail, <font color='red'>$^2$</font>expensive (scientists, facilities, equipment), <font color='red'>$^3$</font>no benefit to normal people, politicians showing power, risk of <font color='red'>$^4$</font>accidents, deaths e.g. <font color='red'>$^5$</font>Challenger space shuttle | <font color='red'>$^2$</font>cheaper e.g. doctors, teachers police instead of astronauts, <font color='red'>$^3$</font>public services impact on everyone, <font color='red'>$^5$</font>reduce poverty, better quality of life, <font color='red'>$^4$</font>we all use schools, hospitals, police, roads etc. |
+
+   After preparation, we **start writing** now.
+
+| Introduction              |                                                              |
+| ------------------------- | ------------------------------------------------------------ |
+| Plan                      | Topic - government spending<br />Answer - agree, public services instead of space projects |
+| Paragraph 1: Introduction | Governments in some countries spend large amounts of money on space exploration programmes. (Topic) I completely agree with the idea that these are a waste of money, and that the funds should be allocated to public services. (Answer) |
+
+| Why space spending should be stopped |      |
+| ------------------------------------ | ---- |
+|                                      |      |
+
